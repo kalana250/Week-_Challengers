@@ -52,8 +52,6 @@ class LinkedListManipulation1 {
 }
 
 
-Recursive method
-
+/*Recursive method
 Time Complexity : O(N), Visiting every node of the linked list of size N
-
-Space Complexity: O(N)
+Space Complexity: O(N)*/
