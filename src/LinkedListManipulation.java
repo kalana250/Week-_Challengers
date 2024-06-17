@@ -58,9 +58,7 @@ class LinkedListManipulation {
 }
 
 
-Iterative method
-
+/*Iterative method
 Time Complexity : O(N), where N is the length of the given linked list.
-
-Space Complexity: O(1)
+Space Complexity: O(1)*/
 
