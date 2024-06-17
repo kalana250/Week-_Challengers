@@ -50,3 +50,10 @@ class LinkedListManipulation1 {
         list.printList(head);
     }
 }
+
+
+Recursive method
+
+Time Complexity : O(N), Visiting every node of the linked list of size N
+
+Space Complexity: O(N)
